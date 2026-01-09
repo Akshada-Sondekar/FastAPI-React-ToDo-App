@@ -30,9 +30,13 @@ This project demonstrates basic **CRUD operations**, REST API communication, and
 FASTAPI_TODO/
 │
 ├── main.py              # FastAPI backend
+|
 ├── frontend/
+|
 │   └── src/
+|
 │       ├── App.js       # React main component
+|
 │       └── App.css      # Styling (optional)
 │
 └── README.md            # Project documentation
