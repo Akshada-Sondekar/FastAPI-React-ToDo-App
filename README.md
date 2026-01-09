@@ -25,25 +25,21 @@ This project demonstrates basic **CRUD operations**, REST API communication, and
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```
 FASTAPI_TODO/
-│
 ├── main.py              # FastAPI backend
-|
 ├── frontend/
-|
 │   └── src/
-|
 │       ├── App.js       # React main component
-|
 │       └── App.css      # Styling (optional)
-│
 └── README.md            # Project documentation
 
 
-> Note: Boilerplate React files are intentionally omitted to keep the repository focused on core logic.
 
+> Note: Boilerplate React files are intentionally omitted to keep the repository focused on core logic.
+```
 ---
 
 ## ▶️ How to Run the Project
