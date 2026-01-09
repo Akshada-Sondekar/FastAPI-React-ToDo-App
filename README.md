@@ -93,5 +93,4 @@ purpose:
 Akshada Sondekar
 BCA AIML Student | FastAPI | React | Python
 
-## 📂 Project Structure
 
